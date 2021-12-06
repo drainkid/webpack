@@ -1,0 +1,1 @@
+(()=>{var o={986:o=>{"use strict";o.exports=function(){return(new Date).getDay()%6==0}}},r={};!function t(e){var a=r[e];if(void 0!==a)return a.exports;var n=r[e]={exports:{}};return o[e](n,n.exports,t),n.exports}(986)()?console.log("zhopa pora rabotat"):console.log("aue")})();
